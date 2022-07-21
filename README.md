@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahzadcse
+- 👋 Hi, I’m Shahzad
 - 👀 I’m interested in creating interactive Front End web development 
 - 🌱 I’m currently learning React Redux Next JS
 - 📫 How to reach me +971 563282183 or write shahzadcse@gmail.com
