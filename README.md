@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shahzad
 - 👀 I’m interested in creating interactive Front End web development 
-- 🌱 I’m currently learning React Redux Next JS
+- 🌱 AEM-EDS, Front End, React JS, Next JS 
 - 📫 How to reach me +91 98291 83783(India), +971 563282183(UAE) or write shahzadcse@gmail.com
 
 <!---
